@@ -111,8 +111,7 @@ streamlit run app.py
 
 > **Streamlit Version Available:** If you prefer a Python-based interface, you can also run this application on Streamlit Cloud.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://maxprofitoptimizer.streamlit.app/)
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://maxprofitoptimizer-tt6sa93jzjor3myurmvyfh.streamlit.app/)
 The Streamlit version provides the same powerful optimization engine with an interactive Python interface.
 
 ## 🎆 Use Cases & Applications
